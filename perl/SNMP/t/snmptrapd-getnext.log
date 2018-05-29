@@ -1,0 +1,5 @@
+t/snmptest.conf: line 1: Warning: Unknown token: sysservices.
+NET-SNMP version 5.7.3
+2018-05-02 13:22:57 NET-SNMP version 5.7.3 Stopped.
+Stopping snmptrapd
+

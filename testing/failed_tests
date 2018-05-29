@@ -1,0 +1,4 @@
+/root/snmp/net-snmp-5.7.3/testing/fulltests/default/T058agentauthtrap_simple
+/root/snmp/net-snmp-5.7.3/testing/fulltests/default/T130snmpv1vacmget_simple
+/root/snmp/net-snmp-5.7.3/testing/fulltests/default/T131snmpv2cvacmget_simple
+/root/snmp/net-snmp-5.7.3/testing/fulltests/default/T140snmpv1vacmgetfail_simple
